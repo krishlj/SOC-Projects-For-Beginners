@@ -7,7 +7,7 @@ This repository contains practical projects focused on investigating different t
 Each project follows a structured process for importing sample logs into Splunk, identifying important fields, running SPL searches, detecting suspicious activity, and reviewing the results from a SOC analyst’s perspective.
 
 Projects
-1. DNS Log Analysis Using Splunk SIEM https://github.com/krishlj/SOC-Projects-For-Beginners/blob/b07d0d25d863c29d1cf000cbb6d72bfe123adddc/Project%231-analyzing-dns-log-using%20splunk-siem.md
+1. DNS Log Analysis Using Splunk SIEM Project#1-analyzing-dns-log-using splunk-siem.md
 
 This project demonstrates how to investigate Domain Name System (DNS) activity using Splunk.
 
